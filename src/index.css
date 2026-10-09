@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+:root {
+  --navy-deep: #081526;
+  --navy-dark: #10263D;
+  --blue-plumbing: #168BFA;
+  --bg-light: #F4F7FA;
+  --grey-muted: #68778A;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "London Plumbers",
+  "description": "Premium 24/7 emergency plumbing, boiler repairs, heating and drainage services across London.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
